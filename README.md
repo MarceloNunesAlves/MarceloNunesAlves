@@ -1,5 +1,3 @@
-https://docs.github.com/pt/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
-
 <h1 align="center"> 
 	✅Bem vindo ao meu GitHub🚀
 </h1>
@@ -7,7 +5,7 @@ https://docs.github.com/pt/github/setting-up-and-managing-your-github-profile/ma
 ### Um pouco sobre mim 👦: 
 - 👋 Me chamo **Marcelo Nunes Alves**.
 - 📌  De São Paulo, São Paulo, Brasil.
-- 💼 Atualmente sou .
+- 💼 Atualmente sou **Machine Learning Engineer**.
 - 🎓 Sou formado em Ciência da computação, com MBA em Inteligência Artificial! 
 
 <hr>
