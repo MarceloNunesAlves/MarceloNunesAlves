@@ -37,4 +37,4 @@
 
 ## ✅ Entre em contato! ✉️
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcelo-nunes-alves-ia)](https://www.linkedin.com/in/ericksonlopesdev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcelo-nunes-alves-ia)](https://linkedin.com/in/marcelo-nunes-alves-ia)
