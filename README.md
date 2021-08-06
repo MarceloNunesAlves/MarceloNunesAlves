@@ -11,7 +11,7 @@
 <hr>
 
 ### ⚡ Habilidades:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)![Spring boot](https://img.shields.io/badge/-Spring%20boot-092E20?&logo=Spring&logoColor=FFFFFF) ![Camel](https://img.shields.io/badge/-Apache%20Camel-092E20?&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/-Flask-092E20?&logo=Flask&logoColor=FFFFFF)![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)![Spring boot](https://img.shields.io/badge/-Spring%20boot-092E20?&logo=Spring&logoColor=FFFFFF) ![Camel](https://img.shields.io/badge/-Apache%20Camel-092E20?&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/-Flask-092E20?&logo=Flask&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
 
 ### 📦 Databases:
 - ![SqlServer](https://img.shields.io/badge/-Sql%20Server-CC2927?&logo=microsoft%20sql%20server&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/-Oracle-4479A1?&logo=oracle&logoColor=E34F26) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005171?&logo=elasticsearch&logoColor=FFFFFF) ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) 
